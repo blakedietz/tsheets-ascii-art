@@ -20,5 +20,5 @@ printf "       ${RT}***${DT}           ${RT}***${DT}                            
 printf "          ${RT}***********${DT}                       ${RT}** **${DT}  __                    \n"
 printf "                                     |  | _ ${RT}*****${DT} |_  _  _ | _    _ _ _  \n"
 printf "                                     |/\|(-  ${RT}***${DT}  |__||||_)|(_)\/(-(-_)  \n"
-printf "                                              ${RT}*${DT}          |      /         \n"
+printf "                                              ${RT}*${DT}         |      /         \n"
 printf "                                                                          \n"
