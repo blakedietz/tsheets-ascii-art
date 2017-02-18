@@ -2,11 +2,9 @@
 
 ## Example Output
 
-![](http://i.imgur.com/1MF3Mhd.png)
-
 ### Colorized Bash
 
-
+![](http://i.imgur.com/1MF3Mhd.png)
 
 ### Text
 
