@@ -2,11 +2,12 @@
 
 ascii art for a fun place to work.
 
-## How was it made?
+## Ascii Contributions
 
-A combination of the following tools were used to create the logo:
+### Full logo stroked circle
 
-- vim
-  - http://vimawesome.com/plugin/drawit
-- https://monodraw.helftone.com/
-- http://asciiflow.com/
+![full-logo-stroked-circle](http://i.imgur.com/pnzVKer.png)
+
+### Full logo filled circle
+
+![full-logo-filled-circle](http://i.imgur.com/1MF3Mhd.png)
