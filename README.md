@@ -4,10 +4,6 @@ ascii art for a fun place to work.
 
 ## Usage
 
-See the following video for an example of how to use the scripts:
-
-[![asciicast](https://asciinema.org/a/Xg83iBJ11PYl2ArbL3QMMscb7.svg)](https://asciinema.org/a/Xg83iBJ11PYl2ArbL3QMMscb7)
-
 ## Ascii Contributions
 
 ### Full logo stroked circle
